@@ -5,7 +5,7 @@ body {
   background-color: rgb(215, 243, 250);
   padding-left: 0px;
   width: 960px;
-  height: 1000px;
+  height: 960px;
   text-align: left;
   margin-right: auto;
   margin-left: auto;
@@ -20,6 +20,11 @@ img {
 }
 
 h1 {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 30px;
+  text-decoration: underline;
+}
+h2 {
   font-family: "Times New Roman", Times, serif;
   padding-left: 30px;
   text-decoration: underline;
@@ -69,9 +74,9 @@ footer {
   margin-right: auto;
   margin-top: -20px;
   width: 960px;
-  background-color: rgb(92, 125, 216);
+  background-color: rgb(138, 229, 241);
   text-align: center;
-  color: aliceblue;
+  color: black;
 }
 footer p {
   padding: 3px;
