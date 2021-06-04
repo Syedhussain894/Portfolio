@@ -81,3 +81,7 @@ footer {
 footer p {
   padding: 3px;
 }
+
+.class li {
+  display: block;
+}
