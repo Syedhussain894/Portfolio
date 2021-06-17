@@ -68,6 +68,20 @@ ul li a:hover {
   box-shadow: 0px 0px 5px 5px black;
   transition: 0.5s ease;
 }
+ul li b {
+  text-decoration: none;
+  color: purple;
+  border: 1px solid transparent;
+  padding: 5px 20px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+ul li b:hover {
+  background-color: rgb(12, 12, 245);
+  color: white;
+  box-shadow: 0px 0px 5px 5px black;
+  transition: 0.5s ease;
+}
 
 footer {
   margin-left: auto;
@@ -80,6 +94,7 @@ footer {
 }
 footer p {
   padding: 3px;
+  padding-left: 90px;
 }
 
 .class li {
